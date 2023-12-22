@@ -10,7 +10,7 @@ import Nav from "./Nav";
 <>
         <Nav />
 <div className="container">
-      <div className="text">Quiz Tech</div>  
+      <div className="text">Dev Recruit</div>  
       <div className="sousTitre">Test your knowledge in both front-end and back-end.</div>  
 
      <div className="button" >
