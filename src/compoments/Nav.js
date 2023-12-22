@@ -10,7 +10,7 @@ import { AiOutlineArrowRight } from "react-icons/ai";
       return (
   <nav className="navbar navbar-expand-lg navbar-dark" >
       <div className="container-fluid px-5 ">
-        <a className="navbar-brand fs-3 " href="#">Quiz Tech</a>
+        <a className="navbar-brand fs-3 " href="#">Dev Recruit</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
